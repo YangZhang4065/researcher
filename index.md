@@ -2,44 +2,21 @@
 layout: default
 ---
 
-## About Me
+## Yang Zhang
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="portrait.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+My name is Yang Zhang. Currently, I am a fourth year Ph.D. student under the supervision of [Dr. Boqing Gong](http://crcv.ucf.edu/people/faculty/Gong/) at University of Central Florida's Center for Research in Computer Vision ([UCF CRCV](http://crcv.ucf.edu/)).
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Domain adaptation, Zero-shot learning, Semantic segmentation
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+**Infinite-Label Learning with Semantic Output Codes**. Y. Zhang, R. Acharyya, J. Liu, B. Gong.
+arXiv:1608.06608. [[PDF](https://arxiv.org/abs/1608.06608)]
 
-## Typography
+**Fast Zero-Shot Image Tagging**. Y. Zhang, B. Gong, and M. Shah.
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, June 2016. [[PDF](http://crcv.ucf.edu/people/faculty/Gong/Paper/fast0tag.pdf)] [[Supp.](http://crcv.ucf.edu/people/faculty/Gong/Paper/fast0tag-supp.pdf)] [[Project](http://crcv.ucf.edu/projects/fastzeroshot/)] [[Presentation](https://www.youtube.com/watch?v=Pmv5JHKX2y4)]
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
