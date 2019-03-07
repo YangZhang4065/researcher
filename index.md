@@ -14,6 +14,9 @@ Domain adaptation, Zero-shot learning, Semantic segmentation
 
 ## Publications
 
+**A Curriculum Domain Adaptation Approach to the Semantic Segmentation of Urban Scenes** Y. Zhang, H. Foroosh, P. David, B. Gong.
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2019 [[PDF](https://ieeexplore.ieee.org/document/8661514)] [[Arxiv](https://arxiv.org/abs/1812.09953)]
+
 **CAMOU: Learning Physical Vehicle Camouflages to Adversarially Attack Detectors in the Wild**. Y. Zhang, H. Foroosh, P. David, B. Gong.
 International Conference on Learning Representations (ICLR) 2019 [[PDF](https://openreview.net/pdf?id=SJgEl3A5tm)]
 
