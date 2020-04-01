@@ -1,18 +1,23 @@
----
-layout: default
----
+
 
 ## Yang Zhang
 
 <img class="profile-picture" src="portrait.jpg">
 
-My name is Yang Zhang. Currently, I am Ph.D. student under the supervision of [Dr. Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/) and [Dr. Boqing Gong](http://boqinggong.info/) at University of Central Florida.
+My name is Yang Zhang. I am a research scientist at Alibaba Seattle. Before that, I finished my Ph.D. under the supervision of [Dr. Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/) and [Dr. Boqing Gong](http://boqinggong.info/) at the University of Central Florida.
+
+[[**Google Scholar**](https://scholar.google.com/citations?user=9dFr77YAAAAJ)]
 
 ## Research Interest
 
-Domain adaptation, Zero-shot learning, Semantic segmentation
+Domain adaptation, Zero-shot learning, Semantic segmentation, Point cloud
 
 ## Publications
+
+*Equal contribution
+
+**PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation**. Y. Zhang*, Z. Zhou*, P. David, X. Yue, Z. Xi, H. Foroosh
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. [[Arxiv](https://arxiv.org/abs/2003.14032)] [[Project/Code](https://github.com/edwardzhou130/PolarSeg)]
 
 **Domain Randomization and Pyramid Consistency: Simulation-to-Real Generalization without Accessing Target Domain Data**. X. Yue, Y. Zhang, S. Zhao, A. Sangiovanni-Vincentelli, K. Keutzer, B. Gong.
 International Conference on Computer Vision (ICCV) 2019 [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yue_Domain_Randomization_and_Pyramid_Consistency_Simulation-to-Real_Generalization_Without_Accessing_Target_ICCV_2019_paper.pdf)] [[Project/Code](https://github.com/xyyue/DRPC)]
@@ -31,4 +36,6 @@ arXiv:1608.06608. [[PDF](https://arxiv.org/abs/1608.06608)]
 
 **Fast Zero-Shot Image Tagging**. Y. Zhang, B. Gong, and M. Shah.
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, June 2016. [[PDF](http://crcv.ucf.edu/people/faculty/Gong/Paper/fast0tag.pdf)] [[Supp.](http://crcv.ucf.edu/people/faculty/Gong/Paper/fast0tag-supp.pdf)] [[Project/Code](http://crcv.ucf.edu/projects/fastzeroshot/)] [[Presentation](https://www.youtube.com/watch?v=Pmv5JHKX2y4)]
+
+
 
