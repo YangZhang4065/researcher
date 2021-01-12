@@ -4,7 +4,7 @@
 
 <img class="profile-picture" src="portrait.jpg">
 
-My name is Yang Zhang. I am a research scientist at Alibaba Seattle. Before that, I finished my Ph.D. under the supervision of [Dr. Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/) and [Dr. Boqing Gong](http://boqinggong.info/) at the University of Central Florida.
+My name is Yang Zhang. I am a perception SWE at Waymo. Before that, I finished my Ph.D. under the supervision of [Dr. Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/) and [Dr. Boqing Gong](http://boqinggong.info/) at the University of Central Florida.
 
 [[**Google Scholar**](https://scholar.google.com/citations?user=9dFr77YAAAAJ)]
 
